@@ -25,10 +25,14 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Using this application laravel version 11.
 
 ## Uses
-# Step -1:
+### Step -1:
 Download this project and place it your required folder.
-# Step -2:
- Run the following command
+
+### Step - 2:
+Start your local server or Xampp server.
+
+### Step -3:
+ Run the following command:
  $php artisan migrate
  $php artisan db:seed
 
