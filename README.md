@@ -21,8 +21,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-##Laravel Version
-Using this application used laravel version 11.
+## Laravel Version
+Using this application laravel version 11.
 
 ## Learning Laravel
 
