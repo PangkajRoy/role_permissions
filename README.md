@@ -29,8 +29,8 @@ Using this application laravel version 11.
 Download this project and place it your required folder.
 # Step -2:
  Run the following command
- php artisan migrate
- php artisan db:seed
+ $php artisan migrate
+ $php artisan db:seed
 
 ## Learning Laravel
 
