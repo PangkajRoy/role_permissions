@@ -22,19 +22,19 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Laravel Version
-Using this application laravel version 11.
+    Using this application laravel version 11.
 
 ## Uses
 - ### Step -1:
-     Download this project and place it your required folder.
+- ** Download this project and place it your required folder.
 
 - ### Step - 2:
-     Start your local server or Xampp server.
+- ** Start your local server or Xampp server.
 
 - ### Step -3:
-      Run the following command: <br>
-      $php artisan migrate
-      $php artisan db:seed
+- ** Run the following command:
+- ** $php artisan migrate
+- ** $php artisan db:seed
 
 ## Learning Laravel
 
