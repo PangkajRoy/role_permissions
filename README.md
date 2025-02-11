@@ -24,6 +24,14 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Laravel Version
 Using this application laravel version 11.
 
+## Uses
+# Step -1:
+Download this project and place it your required folder.
+# Step -2:
+ Run the following command
+ php artisan migrate
+ php artisan db:seed
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
